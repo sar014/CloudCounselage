@@ -1,0 +1,39 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class MainMenuManager : MonoBehaviour
+{
+    [SerializeField] GameObject MainMenu;
+    [SerializeField] GameObject Rules;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+     public void GoBack()
+    {
+        Rules.SetActive(false);
+        MainMenu.SetActive(true);
+    }
+
+    public void RulesPage()
+    {
+        MainMenu.SetActive(false);
+        Rules.SetActive(true);
+    }
+
+    public void PlayGame()
+    {
+        SceneManager.LoadScene(1);
+    }
+
+}
