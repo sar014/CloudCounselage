@@ -1056,7 +1056,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 1
+  m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 716.29}
@@ -1545,9 +1545,8 @@ MonoBehaviour:
   m_text: I craft the visuals for all to see. With colors, shapes, and pixels, I
     play. Who am I in the tech world today?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4c5f6217e9248e844b37adcd3616bdad, type: 2}
-  m_sharedMaterial: {fileID: 4629237964526227372, guid: 4c5f6217e9248e844b37adcd3616bdad,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1655,9 +1654,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 307991327}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -504, y: 23}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -554, y: 23}
   m_SizeDelta: {x: 77.47998, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &515349964
@@ -3245,9 +3244,8 @@ MonoBehaviour:
   m_text: I protect your secrets from prying eyes, stopping attacks from spies. Encryption
     and firewalls are in my plan. What is my job, tell me if you can?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4c5f6217e9248e844b37adcd3616bdad, type: 2}
-  m_sharedMaterial: {fileID: 4629237964526227372, guid: 4c5f6217e9248e844b37adcd3616bdad,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3355,7 +3353,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -104, y: 263}
+  m_AnchoredPosition: {x: -142, y: 401}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1167281383
@@ -5683,9 +5681,8 @@ MonoBehaviour:
   m_text: "Physics and AI, I constantly improve. I bring characters to life with
     flair. My job? It\u2019s part code, part creative care"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4c5f6217e9248e844b37adcd3616bdad, type: 2}
-  m_sharedMaterial: {fileID: 4629237964526227372, guid: 4c5f6217e9248e844b37adcd3616bdad,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -6042,9 +6039,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 385609109}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -35, y: -165}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 99, y: -165}
   m_SizeDelta: {x: 77.47998, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2000142938
